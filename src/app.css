@@ -1,0 +1,32 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "ALADIN";
+    src: url("/static/fonts/Aladin-Regular.ttf");
+  }
+@font-face {
+    font-family: "FLEURDELEAH";
+    src: url("/static/fonts/FleurDeLeah-Regular.ttf");
+  }
+@font-face {
+    font-family: "CHOMSKY";
+    src: url("/static/fonts/Chomsky.woff");
+  }
+@font-face {
+    font-family: "PRESSSTART2P";
+    src: url("/static/fonts/PressStart2P-Regular.ttf");
+  }
+@layer components{
+  .solid-bg{
+    @apply bg-rose-700 border-4 border-double border-amber-400;
+  }
+}
+
+@layer base{
+    body{
+        @apply bg-gradient-to-br from-rose-600 to-amber-500 min-h-screen px-3;
+    }
+}
