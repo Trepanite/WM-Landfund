@@ -19,6 +19,10 @@
     font-family: "PRESSSTART2P";
     src: url("/static/fonts/PressStart2P-Regular.ttf");
   }
+@font-face {
+    font-family: "KINGS";
+    src: url("/static/fonts/Kings-Regular.ttf");
+  }
 @layer components{
   .solid-bg{
     @apply bg-rose-700 border-4 border-double border-amber-400;
