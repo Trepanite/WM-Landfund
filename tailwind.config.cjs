@@ -4,7 +4,7 @@ const config = {
 	theme: {
 		extend: {
 			fontFamily: {
-				'display': ['FLEURDELEAH', 'serif'],
+				'display': ['CHOMSKY', 'serif'],
 				'404': ['PRESSSTART2P', 'sans']
 			},
 			backgroundImage: {
