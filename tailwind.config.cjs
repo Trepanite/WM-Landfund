@@ -5,7 +5,7 @@ const config = {
 		extend: {
 			fontFamily: {
 				'display': ['CHOMSKY', 'serif'],
-				'404': ['PRESSSTART2P', 'sans']
+				'404': ['FLEURDELEAH', 'sans']
 			},
 			backgroundImage: {
 				'paper': "url('/paper-map.jpg')"
