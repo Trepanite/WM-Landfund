@@ -9,7 +9,7 @@
 <Header />
 <div class="grid grid-cols-12 min-h-full w-full">
 	<Navbar />
-	<div class="col-start-3 col-span-8">
+	<div class="col-start-3 col-span-8 m-4">
 		<slot />
 	</div>
 	<Banner />

@@ -12,6 +12,7 @@
 	export let title;
 </script>
 
-<div class="flex justify-center items-center text-4xl m-5 p-5 font-404">
-	<h1>{title}</h1>
+<div class="flex flex-col justify-center items-center text-4xl m-5 p-5">
+	<h2 class="font-404 text-center">{title}</h2>
+	<a href="/" class="buttonClass text-peach m-4 px-4">Click here to go home.</a>
 </div>

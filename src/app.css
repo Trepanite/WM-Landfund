@@ -4,33 +4,47 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: "ALADIN";
-    src: url("/static/fonts/Aladin-Regular.ttf");
-  }
+  font-family: "PRESSSTART2P";
+  src: url("/static/fonts/PressStart2P-Regular.ttf");
+}
+
 @font-face {
-    font-family: "FLEURDELEAH";
-    src: url("/static/fonts/FleurDeLeah-Regular.ttf");
-  }
+  font-family: "NUNITO";
+  src: url("/static/fonts/NunitoSans-Regular.ttf");
+}
 @font-face {
-    font-family: "CHOMSKY";
-    src: url("/static/fonts/Chomsky.woff");
+  font-family: "CHICLE";
+  src: url("/static/fonts/Chicle-Regular.ttf");
+}
+
+@layer utilities {
+  .solid-bg {
+    @apply bg-burgundy rounded-tl-lg rounded-br-lg;
   }
-@font-face {
-    font-family: "PRESSSTART2P";
-    src: url("/static/fonts/PressStart2P-Regular.ttf");
-  }
-@font-face {
-    font-family: "KINGS";
-    src: url("/static/fonts/Kings-Regular.ttf");
-  }
-@layer components{
-  .solid-bg{
-    @apply bg-rose-700 border-4 border-double border-amber-400;
+
+  .buttonClass {
+    @apply drop-shadow mb-3 py-2 min-w-fit text-center font-display text-4xl bg-burgundy rounded-tl-lg rounded-br-lg hover:text-white hover:brightness-125 hover:-translate-y-1 active:translate-y-0 transition-all duration-300;
   }
 }
 
-@layer base{
-    body{
-        @apply bg-gradient-to-br from-rose-600 to-amber-500 min-h-screen px-3;
-    }
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-peach to-brown via-pink min-h-screen px-3 font-nunito;
+  }
+
+  h1 {
+    @apply text-7xl font-display text-burgundy z-10 mb-2 max-w-2/3
+  }
+  p,ul {
+    @apply mb-6 text-2xl leading-9
+  }
+  p > a, li > a{
+    @apply text-white font-bold underline hover:bg-white/50 hover:text-brown
+  }
+  grid > div {
+    @apply border-white border border-4 rounded-lg m-2 p-2 h-fit bg-brown/20
+  }
+  grid > div > h1{
+    @apply text-5xl text-center max-w-full
+  }
 }

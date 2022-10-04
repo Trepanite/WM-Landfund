@@ -1,0 +1,61 @@
+<script>
+	import Divide from '$lib/Divide.svelte';
+</script>
+
+<div>
+	<h1>Want to get involved?</h1>
+	<Divide />
+	<p>
+		Whether you're a farmer, a food systems advocate, a business owner or a community member, we
+		need you in order to build collective power. Thank you for your interested in supporting this
+		work!
+	</p>
+</div>
+<grid class="grid grid-cols-2">
+	<div>
+		<h1>I'm a Farmer</h1>
+		<p>
+			Is it crucial to uplift farmer voices, and to support other farmers in our community to build
+			collective power. Farmers need to learn from each other, especially as they are starting out.
+			If you would like to donate some of your time to mentor the future recipients of these funds,
+			please fill out this form. If you are interested in utilizing your farm to fundraise, please
+			reach out to us through our contact form.
+		</p>
+	</div>
+	<div>
+		<h1>I'm a Farm-worker or Aspiring Farm-Owner</h1>
+		<p>
+			Is it crucial to uplift future farmers in this work, and to support other farmers in our
+			community in order to achieve food systems change.
+		</p>
+		<p>
+			If you are an aspiring farmer looking to apply for the funds of the West MI Farmers of Land
+			Fund, stay tuned for an application once we reach our fundraising goal! In the meantime, if
+			you are looking to get involved in Farm Bill advocacy work, you can contact the National Young
+			Farmers Coalition’s Michigan Organizer at payge@youngfarmers.org.
+		</p>
+	</div>
+	<div>
+		<h1>I'm a Community Member</h1>
+		<p>
+			Thank you for your interest in supporting our work! Here are some ways you can get involved:
+			Share our fundraiser regularly! This traffic helps our posts reach more people. Donate to the
+			GoFundMe and invite others to join you If you have skills or knowledge in finance, social
+			media, or graphic design, we may have a need for your expertise. Please fill out our form and
+			we’ll get back to you!
+		</p>
+	</div>
+	<div>
+		<h1>I'm a local Business Owner</h1>
+		<p>
+			We invite you to spread the word to your existing network, and consider how you can
+			financially support this effort. Here are a some ways you could get involved, in addition to
+			donating: Host a raffle or promote a certain product with proceeds going towards the land
+			fund. Some other local examples of this include the Sovengard’s fundraiser for us through
+			their Cocktail for a Cause program, and the Dreamgoats gift basket collaboration. Add an
+			option on your checkout screen to “add a tip for the West MI Farmers of Color Land Fund” Share
+			our fundraiser with your customers on social media platforms Match any donations made by your
+			employees to the fundraiser.
+		</p>
+	</div>
+</grid>

@@ -4,11 +4,21 @@ const config = {
 	theme: {
 		extend: {
 			fontFamily: {
-				'display': ['CHOMSKY', 'serif'],
-				'404': ['PRESSSTART2P', 'sans']
+				'display': ['CHICLE', 'sans'],
+				'404': ['PRESSSTART2P', 'sans'],
+				'nunito': ['NUNITO', 'sans']
 			},
 			backgroundImage: {
 				'paper': "url('/paper-map.jpg')"
+			},
+			colors: {
+				burgundy: '#7C2A3D',
+				brown: '#BB9B62',
+				pink: '#FF9FA3',
+				peach: '#FF9866'
+			},
+			maxWidth: {
+				'2/3': "66%"
 			}
 		},
 		/* 		fontFamily: {
