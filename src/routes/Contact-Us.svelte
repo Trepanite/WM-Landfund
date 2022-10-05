@@ -48,7 +48,5 @@
                 name="sms_format" value="true" /> -->
 
 		<input class="buttonClass text-peach" id="submit_form" type="submit" value="Send" />
-		<!-- not required, but we'd appreciate it if you'd link to us somewhere on your site -->
-		<p>Powered by <a href="https://postmail.invotes.com" target="_blank">PostMail</a></p>
 	</form>
 </div>

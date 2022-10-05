@@ -4,7 +4,7 @@
 </script>
 
 <!-- defines a CSS class `.open` when `open == true` -->
-<button class:open class="sm:hidden ml-4" on:click={() => (open = !open)}>
+<button class:open class="sm:hidden ml-4 z-10" on:click={() => (open = !open)}>
 	<!-- svg with 3 lines -->
 	<svg width="32" height="24">
 		<line id="top" x1="0" y1="2" x2="32" y2="2" />
