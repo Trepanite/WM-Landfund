@@ -7,7 +7,7 @@
 	<Divide />
 	<p>
 		Whether you're a farmer, a food systems advocate, a business owner or a community member, we
-		need you in order to build collective power. Thank you for your interested in supporting this
+		need you in order to build collective power. Thank you for your interest in supporting this
 		work!
 	</p>
 </div>

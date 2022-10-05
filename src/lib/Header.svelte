@@ -3,7 +3,7 @@
 	export let sidebar = false;
 </script>
 
-<div class="grid grid-cols-6 mt-2">
+<div class="grid grid-cols-6 pt-2">
 	<Hamburger bind:open={sidebar} />
 	<a href="/" class="col-start-2 col-span-4">
 		<img

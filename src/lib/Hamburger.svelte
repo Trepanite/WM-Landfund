@@ -4,9 +4,9 @@
 </script>
 
 <!-- defines a CSS class `.open` when `open == true` -->
-<button class:open class="sm:hidden ml-4 z-10" on:click={() => (open = !open)}>
+<button class:open class="sm:hidden ml-4" on:click={() => (open = !open)}>
 	<!-- svg with 3 lines -->
-	<svg width="32" height="24">
+	<svg width="32" height="24" class="z-50">
 		<line id="top" x1="0" y1="2" x2="32" y2="2" />
 		<line id="middle" x1="0" y1="12" x2="24" y2="12" />
 		<line id="bottom" x1="0" y1="22" x2="32" y2="22" />
@@ -22,7 +22,7 @@
 	svg line {
 		/* `currentColor` means inherit color from the text color */
 		stroke: currentColor;
-		stroke-width: 3;
+		stroke-width: 4;
 		transition: transform 0.3s ease-in-out;
 	}
 
