@@ -16,7 +16,12 @@
 		and Washtenaw County Black Farmer Fund, we knew something like this could happen in West
 		Michigan too. So we began hosting informal listening and visioning sessions with current and
 		aspiring farmers of color in the Grand Rapids area. These conversations collectively visioned
-		our current effort, the West MI Farmers of Color Land Fund.
+		our current effort, the
+		<a
+			href="https://www.gofundme.com/f/westmibipocland"
+			title="West MI Chapter of the National Young Farmers Coalition Fundraiser"
+			>West MI Farmers of Color Land Fund</a
+		>.
 	</p>
 	<h1>The West Michigan Farmers of Color Land Fund</h1>
 	<Divide />
@@ -34,8 +39,9 @@
 		sustainable future for farmers.
 	</p>
 	<p>
-		Michigan Food and Farming Systems and The National Young Farmers Coalition have been supportive
-		as our fiscal sponsors for the GoFundMe, making all donations tax deductible.
+		<a href="https://www.miffs.org/">Michigan Food and Farming Systems </a>
+		and The National Young Farmers Coalition have been supportive as our fiscal sponsors for the GoFundMe,
+		making all donations tax deductible.
 	</p>
 
 	<h1>Why farmers of color?</h1>
@@ -61,8 +67,11 @@
 		Farmer Land Funds. We decided to open our movement up to all farmers of color, because of the
 		population dynamics and demographics in our region. While supporting as many farmers of color as
 		possible, we still aim to center Black aspiring farmers in this work. You can read more about
-		the history of Black farmers in the United State and disenfranchisement in this article from The
-		Atlantic.
+		the history of Black farmers in the United State and disenfranchisement in
+		<a
+			href="https://www.theatlantic.com/magazine/archive/2019/09/this-land-was-our-land/594742/"
+			title="The Mississippi Delta's History of Land Theft">this article from The Atlantic.</a
+		>
 	</p>
 </div>
 

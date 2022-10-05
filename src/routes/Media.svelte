@@ -16,7 +16,7 @@
 			</a> in Dansville, MI.
 		</p>
 		<iframe
-			class="self-center mb-4"
+			class="self-center mb-4 max-w-full"
 			width="560"
 			height="315"
 			src="https://www.youtube.com/embed/iu-uP4G6eyw"
@@ -34,7 +34,7 @@
 			type of work in Michigan.
 		</p>
 		<iframe
-			class="self-center"
+			class="self-center max-w-full"
 			width="560"
 			height="315"
 			src="https://www.youtube.com/embed/98Nwf04LsTE?start=8469"

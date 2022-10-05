@@ -12,6 +12,7 @@
   font-family: "NUNITO";
   src: url("/static/fonts/NunitoSans-Regular.ttf");
 }
+
 @font-face {
   font-family: "CHICLE";
   src: url("/static/fonts/Chicle-Regular.ttf");
@@ -35,16 +36,22 @@
   h1 {
     @apply text-7xl font-display text-burgundy z-10 mb-2 max-w-2/3
   }
-  p,ul {
+
+  p,
+  ul {
     @apply mb-6 text-2xl leading-9
   }
-  p > a, li > a{
+
+  p>a,
+  li>a {
     @apply text-white font-bold underline hover:bg-white/50 hover:text-brown
   }
-  grid > div {
-    @apply border-white border border-4 rounded-lg m-2 p-2 h-fit bg-brown/20
+
+  grid>div {
+    @apply border-white border-4 rounded-lg m-4 p-4 h-fit bg-brown/20
   }
-  grid > div > h1{
+
+  grid>div>h1 {
     @apply text-5xl text-center max-w-full
   }
 }

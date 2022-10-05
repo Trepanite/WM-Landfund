@@ -2,16 +2,16 @@
 	import '../app.css';
 	import Header from '$lib/Header.svelte';
 	import Navbar from '$lib/Navbar.svelte';
+	import Aside from '$lib/Aside.svelte';
 	import Banner from '$lib/Banner.svelte';
-	import Footer from '$lib/Footer.svelte';
+	let open = false;
 </script>
 
-<Header />
+<Aside bind:open />
+<Header bind:sidebar={open} />
 <div class="grid grid-cols-12 min-h-full w-full">
 	<Navbar />
-	<div class="col-start-3 col-span-8 m-4">
+	<div class="col-start-1 sm:col-start-3 col-span-full m-4">
 		<slot />
 	</div>
-	<Banner />
 </div>
-<Footer />
