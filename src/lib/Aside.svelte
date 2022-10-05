@@ -5,8 +5,13 @@
 	export const currentPage = $page.url.pathname;
 </script>
 
-<aside class="absolute w-full h-full bg-black/50 shadow-lg sm:hidden mt-0" class:open>
+<aside
+	on:click={() => (open = !open)}
+	class="absolute w-full h-screen overflow-y:hidden bg-black/50 shadow-lg"
+	class:open
+>
 	<div class="flex flex-col items-stretch mx-1 mt-20 text-peach">
+		<a class="buttonClass" href="/">Home</a>
 		{#each navButtons as navButton}
 			{#if navButton.replace(/ /g, '-') === $page.url.pathname.replace(/\//g, '')}
 				<a class="buttonClass text-white brightness-125" href={'/' + navButton.replace(/ /g, '-')}
@@ -29,5 +34,6 @@
 	.open {
 		/* slide on screen */
 		left: 0;
+		touch-action: none;
 	}
 </style>

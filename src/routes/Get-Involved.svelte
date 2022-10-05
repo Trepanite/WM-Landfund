@@ -11,7 +11,7 @@
 		work!
 	</p>
 </div>
-<grid class="grid grid-cols-2">
+<grid class="sm:grid sm:grid-cols-2">
 	<div>
 		<h1>I'm a Farmer</h1>
 		<p>

@@ -7,7 +7,7 @@
 	<Divide />
 	<div class="flex flex-col">
 		<p>
-			Follow us on <a href="https://Instagram.com">Instagram</a>!
+			Follow us on <a href="https://www.instagram.com/west_mi_youngfarmers/">Instagram</a>!
 		</p>
 		<p>
 			Watch this amazing storytelling session by Shara Trierweiler of <a

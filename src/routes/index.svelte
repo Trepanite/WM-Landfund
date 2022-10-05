@@ -2,7 +2,7 @@
 	import Divide from '$lib/Divide.svelte';
 </script>
 
-<div class="h-full p-4">
+<div class="h-full p-4 sm:overflow-y-hidden">
 	<h1>How it Started</h1>
 	<Divide />
 	<p>

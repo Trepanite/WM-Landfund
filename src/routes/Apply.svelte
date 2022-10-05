@@ -2,7 +2,7 @@
 	import Divide from '$lib/Divide.svelte';
 </script>
 
-<div>
+<div class="">
 	<h1>Apply</h1>
 	<Divide />
 	<p>

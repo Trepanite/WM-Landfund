@@ -30,16 +30,16 @@
 
 @layer base {
   body {
-    @apply bg-gradient-to-br from-peach to-brown via-pink min-h-screen px-3 font-nunito;
+    @apply overflow-auto text-clip bg-gradient-to-br from-peach to-brown via-pink min-h-screen px-3 font-nunito;
   }
 
   h1 {
-    @apply text-7xl font-display text-burgundy z-10 mb-2 max-w-2/3
+    @apply text-5xl sm:text-7xl font-display text-burgundy z-10 mb-2 max-w-2/3
   }
 
   p,
   ul {
-    @apply mb-6 text-2xl leading-9
+    @apply mb-6 text-xl sm:text-2xl leading-9
   }
 
   p>a,
