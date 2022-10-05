@@ -4,7 +4,7 @@
 	export const currentPage = $page.url.pathname;
 </script>
 
-<nav class=" h-full w-2/12 fixed invisible sm:visible">
+<nav class=" h-0 sm:h-full w-2/12 fixed invisible sm:visible">
 	<div class="flex flex-col items-stretch mx-1 text-peach">
 		<a href="/" class="mb-2"
 			><img
