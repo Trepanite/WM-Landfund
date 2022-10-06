@@ -4,12 +4,12 @@
 	export const currentPage = $page.url.pathname;
 </script>
 
-<nav class=" h-0 sm:h-full w-2/12 fixed invisible sm:visible">
+<nav class=" h-0 lg:h-full w-2/12 fixed inset-y-20 left-0 invisible xl:visible">
 	<div class="flex flex-col items-stretch mx-1 text-peach">
 		<a href="/" class="mb-2"
 			><img
 				src="brand-assets/corner-logo.png"
-				class="object-scale-down invisible sm:visible"
+				class="object-scale-down"
 				alt="The West Michigan BIPOC Farmer Land Fund logo."
 			/></a
 		>

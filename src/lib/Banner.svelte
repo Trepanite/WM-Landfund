@@ -1,5 +1,5 @@
 <div
-	class="overflow-hidden col-span-2 p-4 bg-burgundy rounded-lg h-0 sm:h-fit invisible sm:visible"
+	class="overflow-hidden col-span-3 p-4 bg-burgundy rounded-lg h-0 xl:h-fit invisible xl:visible"
 >
 	<h2 class="text-center font-display text-4xl text-white">Recent Updates</h2>
 	<div class="w-3/4 mx-auto flex items-center">
@@ -7,7 +7,7 @@
 	</div>
 	<!-- svelte-ignore a11y-missing-attribute -->
 	<iframe
-		class="sm:h-screen mr-2"
+		class="md:h-screen mr-2 w-full"
 		src="https://www.juicer.io/api/feeds/west_mi_youngfarmers/iframe"
 		frameborder="0"
 		style="display:block;margin:0 auto;"

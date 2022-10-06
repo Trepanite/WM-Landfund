@@ -9,9 +9,9 @@
 
 <Aside bind:open />
 <Header bind:sidebar={open} />
-<div class="grid grid-cols-12 min-h-screen w-full">
+<div class="grid grid-cols-12 min-h-fit w-full">
 	<Navbar />
-	<div class="col-start-1 col-span-full sm:col-start-3 sm:col-span-8 m-4">
+	<div class="col-start-1 col-span-full xl:col-span-7 xl:col-start-3 m-4">
 		<slot />
 	</div>
 	<Banner />
