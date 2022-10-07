@@ -35,10 +35,12 @@
 	<Divide />
 	<p>
 		My name is Mik (she/they). I am a first generation, queer, young farmer in the West Michigan
-		area. Two seasons ago I started a small farm called Stillwind, which is now a 1/2 acre, low
-		till, Certified Naturally Grown operation. I also work full time at Full Hollow Farm & volunteer
-		on both the West MI Young Farmers Chapter & West MI Growers Group boards. I find joy & rest
-		while enjoying meals with others, reading, & spending time outside!
+		area. Two seasons ago I started a small farm called <a href="https://www.stillwindfarmllc.com/"
+			>Stillwind</a
+		>, which is now a 1/2 acre, low till, Certified Naturally Grown operation. I also work full time
+		at Full Hollow Farm & volunteer on both the West MI Young Farmers Chapter &
+		<a href="https://www.wmgrowersgroup.org/">West MI Growers Group</a> boards. I find joy & rest while
+		enjoying meals with others, reading, & spending time outside!
 	</p>
 	<p>
 		With plentiful barriers to entry & systematic issues, I find it is inspiring to work alongside
