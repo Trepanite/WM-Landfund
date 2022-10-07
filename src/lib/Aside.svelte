@@ -1,13 +1,20 @@
 <script>
 	export let open = false;
 	import { page } from '$app/stores';
-	export const navButtons = ['Donate', 'Get Involved', 'Apply', 'Media', 'Contact Us'];
+	export const navButtons = [
+		'Donate',
+		'Get Involved',
+		'Apply',
+		'Who We Are',
+		'Media',
+		'Contact Us'
+	];
 	export const currentPage = $page.url.pathname;
 </script>
 
 <aside
 	on:click={() => (open = !open)}
-	class="absolute w-full h-full bg-black/50 shadow-lg"
+	class="absolute w-full h-full bg-black/50 shadow-lg z-10"
 	class:open
 >
 	<div class="flex flex-col items-stretch justify-center h-2/3 md:h-full mx-1 mt-5 text-peach">

@@ -13,9 +13,7 @@
 </div>
 <grid class="sm:grid sm:grid-cols-2">
 	<div>
-		<div class="flex items-middle">
-			<h1>I'm a Farmer</h1>
-		</div>
+		<h1>I'm a Farmer</h1>
 		<p>
 			Is it crucial to uplift farmer voices, and to support other farmers in our community to build
 			collective power. Farmers need to learn from each other, especially as they are starting out.

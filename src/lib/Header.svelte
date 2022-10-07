@@ -14,7 +14,7 @@
 	>
 	<img
 		src="brand-assets/corner-logo.png"
-		class="object-scale-down mt-3 xl:hidden"
+		class="object-scale-down mt-3 lg:hidden"
 		alt="The West Michigan BIPOC Farmer Land Fund logo."
 	/>
 </div>

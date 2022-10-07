@@ -11,7 +11,9 @@
 <Header bind:sidebar={open} />
 <div class="grid grid-cols-12 min-h-fit w-full">
 	<Navbar />
-	<div class="col-start-1 col-span-full xl:col-span-7 xl:col-start-3 m-4">
+	<div
+		class="col-start-1 col-span-full lg:col-span-9 xl:col-span-7 lg:col-start-3 xl:col-start-3 m-4"
+	>
 		<slot />
 	</div>
 	<Banner />

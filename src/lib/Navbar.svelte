@@ -1,10 +1,17 @@
 <script>
 	import { page } from '$app/stores';
-	export const navButtons = ['Donate', 'Get Involved', 'Apply', 'Media', 'Contact Us'];
+	export const navButtons = [
+		'Donate',
+		'Get Involved',
+		'Apply',
+		'Who We Are',
+		'Media',
+		'Contact Us'
+	];
 	export const currentPage = $page.url.pathname;
 </script>
 
-<nav class=" h-0 lg:h-full w-2/12 fixed inset-y-20 left-0 invisible xl:visible">
+<nav class=" h-0 lg:h-full w-2/12 fixed inset-y-20 left-0 invisible lg:visible">
 	<div class="flex flex-col items-stretch mx-1 text-peach">
 		<a href="/" class="mb-2"
 			><img
