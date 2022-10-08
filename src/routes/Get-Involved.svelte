@@ -13,9 +13,9 @@
 </div>
 <grid class="sm:grid sm:grid-cols-2">
 	<div>
-		<h1>I'm a Farmer</h1>
+		<h1>I'm a Farm Owner</h1>
 		<p>
-			Is it crucial to uplift farmer voices, and to support other farmers in our community to build
+			It is crucial to uplift farmer voices, and to support other farmers in our community to build
 			collective power. Farmers need to learn from each other, especially as they are starting out.
 			If you would like to donate some of your time to mentor the future recipients of these funds
 			or utilize your farm to fundraise, please reach out to us through our <a href="/Contact-Us"
@@ -26,7 +26,7 @@
 	<div>
 		<h1>I'm a Farm-worker or Aspiring Farm-Owner</h1>
 		<p>
-			Is it crucial to uplift future farmers in this work, and to support other farmers in our
+			It is crucial to uplift future farmers in this work, and to support other farmers in our
 			community in order to achieve food systems change.
 		</p>
 		<p>
