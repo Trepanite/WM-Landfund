@@ -44,7 +44,6 @@
 		that the creation of an equitable food system benefits everyone.
 	</p>
 </div>
-<div id="Jenkins-Smith" class="border-4 border-white rounded-lg bg-brown/20 m-4 p-4" />
 <div id="Kelly" class="border-4 border-white rounded-lg bg-brown/20 m-4 p-4">
 	<div class="flex w-full items-center align-middle pb-2 ">
 		<img
