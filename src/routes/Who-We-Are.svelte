@@ -57,21 +57,12 @@
 		</div>
 	</div>
 	<p>
-		Alita received a B.S. from University of Michigan in Environmental Science and Sustainable
-		Business. She is the founder of South East Market, a sustainable, equitable, people-powered
-		neighborhood market. She sits as the Chair for the City of Grand Rapids Urban Agriculture
-		Committee and as the Land Organizing Director for the National Young Farmer Coalition where she
-		helps people both locally and across the country organize for policy reform.
-	</p>
-	<p>
-		Alita’s passion is to help people connect to and grow their respect for nature and our home
-		planet Earth. She does this through several forms of community organizing namely children’s
-		programming and community garden projects.
-	</p>
-	<p>
-		In her free time you can find Alita with her partner, Sergio, and their two daughters, Willow
-		and Alondra, traveling, observing insects, playing soccer and enjoying the great outdoors and
-		good company.
+		Alita is a serial entrepreneur with several food related businesses under her belt. She has
+		worked on local and national policy campaigns around sustainable agriculture. Alita has served
+		on several boards, many in leadership positions including Chair for the Grand Rapids Urban
+		Agriculture Committee. She’s currently chair of the West Michigan Chapter of the National Young
+		Farmer Coalition, Lead Alchemist of Jade Rabbit, a strategic planning and urban agriculture
+		development firm, and revitalizing a 10 acre apple orchard in Northern Michigan.
 	</p>
 </div>
 <div id="Haan" class="border-4 border-white rounded-lg bg-brown/20 m-4 p-4">
