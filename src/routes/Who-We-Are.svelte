@@ -44,6 +44,36 @@
 		that the creation of an equitable food system benefits everyone.
 	</p>
 </div>
+<div id="Jenkins-Smith" class="border-4 border-white rounded-lg bg-brown/20 m-4 p-4">
+	<div class="flex w-full items-center align-middle pb-2 ">
+		<img
+			class="mr-8 h-24 w-24 md:h-32 md:w-32 border-white border-4 rounded-full"
+			src="/Jenkins-Smith.png"
+			alt="Takidia Jenkins-Smith"
+		/>
+		<div class="w-full">
+			<h1 class="max-w-full">Takidia Jenkins-Smith</h1>
+			<Divide />
+		</div>
+	</div>
+	<p>
+		Takidia Jenkins-Smith, an urban grower by chance, began her journey in 2009 in response to
+		challenges brought on by the 2008 economic recession. To supplement her family’s food bill, she
+		turned to the earth, sowing a small vegetable garden and building an urban homestead with her
+		husband and four children. Then, in 2017, with a little over $3,000, vegetable seed, and a PDF
+		copy of hoophouse plans, Takidia founded Fresh Beets Urban Farm—currently the only for-profit
+		urban farm in Grand Rapids, MI, that is 100% owned and operated by an African American woman.
+	</p>
+	<p>
+		She launched the farm in implicit partnership with the food justice movement in Kent County with
+		the aim of answering two crucial questions: how much food can the average lot in Kent county
+		produce and how much land does an urban grower need to operate a profitable urban farm. Her
+		passion for empowering others and making a positive impact on the community drives her vision to
+		create a thriving community of urban growers with the means to access the land they require to
+		foster a robust and diverse local food system in Grand Rapids, MI.
+	</p>
+</div>
+
 <div id="Kelly" class="border-4 border-white rounded-lg bg-brown/20 m-4 p-4">
 	<div class="flex w-full items-center align-middle pb-2 ">
 		<img
